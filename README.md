@@ -6,7 +6,7 @@ Both the .js and .css files are needed for the desired effect.
 
 It can be used with the following commands:
 
-First, make sure there is a <header> element in the DOM.
+First, make sure there is a \<header> element in the DOM.
 
 floatingHeader.load(); - adds the floating header to the <header> element
 floatingHeader.addDiv(yourDivId, yourDivText); - adds a menu item to the left side of the existing floating header.
